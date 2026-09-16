@@ -3,10 +3,11 @@
     {
       "name": "Merchant Event",
       "version": "V11",
+      "release_tag": "v11",
+      "asset": "Merchant_Event.zip",
       "folder": "Merchant_Event",
       "exe": "Merchant_Event_V11.exe",
-      "map_file": "ps99_virtual_xy_map.json",
-      "package_url": "https://github.com/samco137/PS99-Bot-Center-Updates/releases/download/v11/Merchant_Event.zip"
+      "map_file": "ps99_virtual_xy_map.json"
     }
   ]
 }
