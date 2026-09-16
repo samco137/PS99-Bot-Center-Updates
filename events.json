@@ -2,11 +2,11 @@
   "events": [
     {
       "name": "Merchant Event",
-      "version": "V12",
-      "release_tag": "V12",
+      "version": "V12.3",
+      "release_tag": "V12.3",
       "asset": "Merchant_Event.zip",
       "folder": "Merchant_Event",
-      "exe": "Merchant_Event_V12.exe",
+      "exe": "Merchant_Event_V12_3.exe",
       "map_file": "ps99_virtual_xy_map.json"
     }
   ]
