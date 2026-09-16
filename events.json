@@ -6,7 +6,7 @@
       "folder": "Merchant_Event",
       "exe": "Merchant_Event_V11.exe",
       "map_file": "ps99_virtual_xy_map.json",
-      "files": []
+      "package_url": "https://github.com/samco137/PS99-Bot-Center-Updates/releases/download/v11/Merchant_Event.zip"
     }
   ]
 }
